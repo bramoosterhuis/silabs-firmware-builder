@@ -244,4 +244,5 @@ jobs:
         with:
           files: |
             artifacts/*.gbl
+            artifacts/*.hex
             artifacts/manifest.json
